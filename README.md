@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**xcodz-dot/xcodz-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Neofetch on Xcodz-Dot
+```
+            .-/+oossssoo+/-.               human@Earth
+        `:+ssssssssssssssssss+:`           ---------------
+      -+ssssssssssssssssssyyssss+-         OS: Intelligence OS 1.9.0-stable23+20273 x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Kernel: 4.4.0-43-Genius
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Uptime: 0xERROR
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Packages: 102903287837927297022224499 (dpkg)
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Shell: bash 4.3.48 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Terminal: /dev/tty1 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   CPU: Intel Brain N3350 (2) @ 400.39GHz 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Memory: 1 PetaByte / 2 PetaByte
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Camera: Intel Iris (512 MegaPixel) @ 1200 fps
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Microphone: Dolby DualEar
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Speaker: Dolby Speak @ 50 db
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
+```
