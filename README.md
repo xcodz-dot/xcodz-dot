@@ -21,3 +21,17 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Camera: Intel Iris (512 MegaPixel) @ 
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.
 ```
+
+### About
+I am a self taught proggrammer who was facinated on how computers worked. I have tried to learn
+a lot of languages but got the best in Python with about 3 years of expereince. And as I tried
+to learn a lot of languages, I have a strong base on languages like java, kotlin and a little to no
+experience in C/C++. My projects are mostly based on for making things easier in Python.
+
+### Type
+* Straight-forward sceintific thought process (Does not believe on unproven things and oral knowledge)
+* Focus on writing code rather than thoughts
+* IQ (according to 3 tests) : 140+
+* Prefer Anonymity
+* Prefer to work alone
+* Code in Colaboration only if the Idea provided is logical and works.
