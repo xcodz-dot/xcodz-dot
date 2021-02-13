@@ -35,3 +35,4 @@ experience in C/C++. My projects are mostly based on for making things easier in
 * Prefer Anonymity
 * Prefer to work alone
 * Code in Colaboration only if the Idea provided is logical and works.
+* Work: Proggramming, Hobby: Proggramming, Time-Pass: Proggramming, Sundays: Proggramming. (Proggramming is my favorite)
